@@ -1,2 +1,2 @@
 # FansRepository
-NaN
+此库作为练习github操作用。
